@@ -50,7 +50,8 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
                 text="🌸𝙷𝙴𝙻𝙿🌸", callback_data="command_menu"
             ),                       
             InlineKeyboardButton(
-                text="🥀𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/TG_STARWORLD"
+                text="🥀𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/TG_STARWORLD" 
+            ), 
         ], 
         [
             InlineKeyboardButton(
