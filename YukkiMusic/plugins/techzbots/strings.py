@@ -43,15 +43,7 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
                 text="➕𝙰𝙳𝙳 𝙼𝙴𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿➕", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"
-            ),            
-        ],
-        [   
-            InlineKeyboardButton(
-                text="🌸𝙷𝙴𝙻𝙿🌸", callback_data="command_menu"
-            ),                       
-            InlineKeyboardButton(
-                text="🥀𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/TG_STARWORLD" 
-            ), 
+           ), 
         ], 
         [
             InlineKeyboardButton(
@@ -59,6 +51,14 @@ START_BUTTON_PRIVATE = InlineKeyboardMarkup(
             ),
             InlineKeyboardButton(
                 text="✨𝚂𝚄𝙿𝙿𝙾𝚁𝚃✨", url="https://t.me/TEACH_TEAMOP"
+            ), 
+        ],
+        [   
+            InlineKeyboardButton(
+                text="🥀𝙾𝚆𝙽𝙴𝚁 🥀", url="https://t.me/TG_STARWORLD"
+            ),                       
+            InlineKeyboardButton(
+                text="🌸𝙷𝙴𝙻𝙿🌸", callback_data="command_menu"
             ),                       
         ],
         [
