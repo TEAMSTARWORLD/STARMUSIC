@@ -1,7 +1,6 @@
 <img src="https://telegra.ph/file/7f02aa286e32036dbd271.jpg" align="right" width="200" height="200"/>
 
 <h3>⚠️ This repo is just a clone of <a href="https://github.com/TEAMSTARWORLD/MyraMusic">MyraMusic</a>. All credits goes to devs of <a href="https://github.com/TEAMSTARWORLD/MyraMusic/graphs/contributors">MyraMusic</a>.</h3>
-https://github.com/TEAMSTARWORLD/MyraMusic/graphs/contributors
 
 # MyraMusic
 
