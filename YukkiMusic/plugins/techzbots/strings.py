@@ -83,7 +83,7 @@ COMMANDS_BUTTON_USER = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),            
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
+                text="Extra Commands", url="https://te.legra.ph/Myra-Music-Help-Commands-11-21"
             ),                                   
         ],
         [
@@ -111,12 +111,12 @@ COMMANDS_BUTTON_SUDO = InlineKeyboardMarkup(
                 text="Play Commands", callback_data="play_cmd"
             ),
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
+                text="Sudo Commands", url="https://te.legra.ph/Myra-Sudo-cmds-11-21-2"
             ),            
         ],
         [
             InlineKeyboardButton(
-                text="Extra Commands", url="https://telegra.ph/Aviax-Music-Help-Commands-05-16"
+                text="Extra Commands", url="https://te.legra.ph/Myra-Music-Help-Commands-11-21"
             ),                                   
         ],
         [
@@ -145,7 +145,7 @@ BACK_BUTTON = InlineKeyboardMarkup(
 SUDO_BACK_BUTTON = InlineKeyboardMarkup(
     [   [
             InlineKeyboardButton(
-                text="Sudo Commands", url="https://telegra.ph/Aviax-Sudo-cmds-05-16"
+                text="Sudo Commands", url="https://te.legra.ph/Myra-Sudo-cmds-11-21-2"
             ),                        
         ],
         [
